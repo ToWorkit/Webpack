@@ -6,7 +6,7 @@
   * 存放准备给浏览器读取的数据(包括webpack生成的打包后的js文件以及一个index.html文件)
 
 
-##### 在webpack中使用 -S-D 有时会失效，建议使用--save-dev
+#### 在webpack中使用 -S-D 有时会失效，建议使用--save-dev
 
 #### loader
 
